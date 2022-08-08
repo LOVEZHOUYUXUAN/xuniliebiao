@@ -27,18 +27,11 @@
     "start": "webpack-dev-server --hot --inline",
     "build": "webpack --display-error-details --config webpack.config.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chenqf/vue-virtual-listview.git"
-  },
+  
   "keywords": [
     "vue",
     "virtual-list"
   ],
-  "author": "chenqf",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chenqf/vue-virtual-listview/issues"
-  },
-  "homepage": "https://github.com/chenqf/vue-virtual-listview#readme"
+  "author": "zyx",
+  
 }
